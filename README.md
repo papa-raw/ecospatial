@@ -25,6 +25,8 @@ Regen Atlas is an open-source, map-based platform for discovering tokenized envi
 
 ![Bioregion explorer with EII scores and asset clustering](docs/images/bioregion-explorer.png)
 
+![Intelligence dashboard — source protocols, service value, gap factor](docs/images/intelligence-dashboard.png)
+
 ![Interspecies Parliament — EII pillars, epoch trajectory, 50 agents](docs/images/interspecies-parliament.png)
 
 ### Filecoin Provenance Layer
