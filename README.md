@@ -2,7 +2,7 @@
 
 **The largest curated registry of tokenized green assets in crypto — extended with verifiable provenance, scientific valuation, and AI-native governance.**
 
-Built for [PL_Genesis: Frontiers of Collaboration](https://pl-genesis.devfolio.co/) | Existing Code Track | [Live prototype](https://regenatlas.xyz)
+Built for [PL_Genesis: Frontiers of Collaboration](https://pl-genesis.devfolio.co/) | Existing Code Track | [Live prototype](https://regen-atlas-ecospatial.vercel.app/) | [Original codebase](https://regenatlas.xyz)
 
 ---
 
