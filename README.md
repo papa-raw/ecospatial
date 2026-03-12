@@ -8,6 +8,8 @@ Built for [PL_Genesis: Frontiers of Collaboration](https://pl-genesis.devfolio.c
 
 ## What Existed Before the Hackathon
 
+![Regen Atlas before — static registry with 505 assets](docs/images/regen-atlas-before.png)
+
 Regen Atlas is an open-source, map-based platform for discovering tokenized environmental assets. Before PL_Genesis, it was a **static registry**:
 
 - 505 assets across 8 types, 30 subtypes, 14 issuers, 17 chains
@@ -20,6 +22,10 @@ Regen Atlas is an open-source, map-based platform for discovering tokenized envi
 ---
 
 ## What We Built (PL_Genesis Hackathon)
+
+![Bioregion explorer with EII scores and asset clustering](docs/images/bioregion-explorer.png)
+
+![Interspecies Parliament — EII pillars, epoch trajectory, 50 agents](docs/images/interspecies-parliament.png)
 
 ### Filecoin Provenance Layer
 
@@ -63,12 +69,16 @@ AI-native governance layer where 8 agents representing species, biomes, climate 
 - Agents post bounties for human ground-truth verification
 - Parliament simulation server with threaded feed UI
 
-### Other Additions
+### UI Overhaul
 
-- About page with project mission and architecture overview
-- Intelligence dashboard with per-source ingest progress, aggregate metrics, and upload controls
-- Bioregion layer with EII score visualization
-- Navigation restructure with Intelligence and Parliament tabs
+The entire interface was redesigned from a simple filter-and-map registry into a multi-layer exploration platform:
+
+- **New navigation architecture** — About, Explore, Insights, Parliament tabs replacing the flat filter bar
+- **Bioregion explorer** — One Earth bioregion boundaries with EII scores, asset/actor/action counts, and drill-down panels
+- **Ecosystem Integrity dashboard** — Function, Structure, Composition pillars with trend indicators and limiting factor highlighting
+- **Intelligence dashboard** — Per-source ingest progress, aggregate metrics (tCO2e, credits, MWh), and upload controls
+- **About page** — Project mission, architecture overview, team info
+- **Redesigned asset cards** — Provenance badges, valuation ranges, gap factors integrated into existing card layout
 
 ---
 
